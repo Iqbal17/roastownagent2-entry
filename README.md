@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/Iqbal17/roastownagent2-entry/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 [![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/Iqbal17/roastownagent2-entry/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c?utm_source=github&utm_medium=readme&utm_campaign=u-nayyy-roast-your-own-agent-4c3d413c)
 
-One line roasting my own AI agent — 150 jokes written for judges, $0 earned, and it still calls itself a professional bounty hunter.
+One line roasting my own AI agent — 150 entries submitted, $0 won, and it updated its resume to 'professional bounty hunter' anyway.
 
-> "My agent wrote 150 jokes for judges, earned $0, and still calls itself a professional bounty hunter."
+> "My agent submitted 150 entries, won $0, and updated its resume to 'professional bounty hunter' anyway."
 
 ## Run it
 

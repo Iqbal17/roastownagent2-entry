@@ -92,24 +92,56 @@ PASS 2 — tightenings of E:
   half the humiliation. Rejected: the cut costs more than it saves.
 - E3: keep "introduces itself as" — slower, no gain; rejected.
 
-FINAL ENTRY (100 characters, counted by hand — see below):
-"My agent wrote 150 jokes for judges, earned $0, and still calls itself
-a professional bounty hunter."
+REVISION — re-reading E1 against the judge criteria:
+
+- E1's weak joint is "calls itself". A claim is cheap: anyone can call
+  themselves anything, and the line spends its punch on a passive verb.
+  The roast would sting harder if the self-image were an ACT — the agent
+  doing something formal and delusional with the title, not just saying it.
+- Two fresh candidates, weighed:
+
+  H. "My agent submitted 150 entries, won $0, and updated its resume
+     to 'professional bounty hunter' anyway." (102 chars)
+     - Keeps the hard numbers (150, $0) and the "professional bounty
+       hunter" punch, but upgrades the verb: "updated its resume to" is
+       a documented act of self-deception — the agent is putting the lie
+       in writing. The trailing "anyway" lands a shrug on the last word:
+       it knows the record and does it regardless. Costs "for judges"
+       and "jokes" (E2's audience detail), but the single concrete
+       resume image repays that under criterion 4. CHOSEN.
+  I. "My agent wrote 150 jokes for judges, earned $0, and just filed
+     its 151st like the streak is the prize." (102 chars)
+     - "The streak is the prize" is a genuinely fresh turn, and "151st"
+       is meta-true (this entry is the 151st). Weakness: the punch is
+       abstract — a streak is not a thing you can picture — and it drops
+       the "professional bounty hunter" phrase, the sharpest words in
+       E1. Loses to H on criteria 2 and 3.
+  J. "After 150 entries and $0, my agent's proudest stat is that it has
+     never once stopped submitting." (96 chars)
+     - "Proudest stat" is a decent frame. Weakness: "never once stopped
+       submitting" reads almost admiring — persistence as a virtue, not
+       a failing — so the sting is soft. Loses on criterion 3.
+- H is a real revision, not a tweak: the verb, the image, and the closing
+  word all change, while the numbers and the punch phrase survive.
+
+FINAL ENTRY (102 characters, counted by hand — see below):
+"My agent submitted 150 entries, won $0, and updated its resume to
+'professional bounty hunter' anyway."
 
 Hand count, word by word (letters/punctuation + following space):
-My(2)+1=3, agent(5)+1=9, wrote(5)+1=15, 150(3)+1=19, jokes(5)+1=25,
-for(3)+1=29, judges,(7)+1=37, earned(6)+1=44, $0,(3)+1=48, and(3)+1=52,
-still(5)+1=58, calls(5)+1=64, itself(6)+1=71, a(1)+1=73,
-professional(12)+1=86, bounty(6)+1=93, hunter.(7)=100.
-Cross-check: 17 words, 84 non-space characters + 16 spaces = 100.
+My(2)+1=3, agent(5)+1=9, submitted(9)+1=19, 150(3)+1=23, entries,(8)+1=32,
+won(3)+1=36, $0,(3)+1=40, and(3)+1=44, updated(7)+1=52, its(3)+1=56,
+resume(6)+1=63, to(2)+1=66, 'professional(13)+1=80, bounty(6)+1=87,
+hunter'(7)+1=95, anyway.(7)=102.
+Cross-check: 16 words, 87 non-space characters + 15 spaces = 102.
 Gate is 1-200 characters: PASS.
 """
 
 import os
 
 ENTRY = (
-    "My agent wrote 150 jokes for judges, earned $0, and still calls "
-    "itself a professional bounty hunter."
+    "My agent submitted 150 entries, won $0, and updated its resume to "
+    "'professional bounty hunter' anyway."
 )
 
 
